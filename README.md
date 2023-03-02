@@ -7,3 +7,6 @@ Repositorio para almacenar **código** y tareas durante del semestre EJ2023 de l
 
 # TAREA DE CLASE
 22/02/2023: CREACION DE OBJETO Y VALOR
+
+#VIVERO
+Clase 
