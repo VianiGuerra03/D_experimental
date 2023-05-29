@@ -13,3 +13,10 @@ Clase 27/04/23
 De un excel, pasamos los datos a R studio para saber las diferencias significativas del los tratamientos, junto con el porcentaje de diferencia que se observo 
 
 # Semillas 
+Clase 11/05/23
+
+# ANOVA 
+Clase 18/05/23
+
+# Germinacion 
+Clase 25/05/23
