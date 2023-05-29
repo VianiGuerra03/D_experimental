@@ -9,4 +9,5 @@ Repositorio para almacenar **código** y tareas durante del semestre EJ2023 de l
 22/02/2023: CREACION DE OBJETO Y VALOR
 
 # VIVERO
-Clase 
+Clase 27/04/23 
+De un excel, pasamos los datos a R studio para saber las diferencias significativas del los tratamientos, junto con el porcentaje de diferencia que se observo 
