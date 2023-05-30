@@ -1,3 +1,4 @@
+# 11/05/23
 # t-test dependientes 
  semilla <- read.csv("mainproduccion.csv", header = T)
 semilla$Tiempo <- as.factor(semilla$Tiempo) 
