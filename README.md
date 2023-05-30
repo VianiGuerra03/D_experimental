@@ -10,7 +10,8 @@ Repositorio para almacenar **código** y tareas durante del semestre EJ2023 de l
 
 # VIVERO
 Clase 27/04/23 
-De un excel, pasamos los datos a R studio para saber las diferencias significativas del los tratamientos, junto con el porcentaje de diferencia que se observo 
+De un excel, pasamos los datos a R studio para saber las diferencias significativas del los tratamientos, junto con el porcentaje de diferencia que se observo, pruebas de one sample, al igual que la diferencia de varianza que hay entre los dos tratamientos 
+
 
 # Semillas 
 Clase 11/05/23
