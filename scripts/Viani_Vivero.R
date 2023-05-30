@@ -1,5 +1,5 @@
 # VIVERO
-# 
+# 27/04/23
 plantulas <- read.csv("ejemplo_2.csv", header =T)
 plantulas$Tratamiento <- as.factor(plantulas$Tratamiento)
 
