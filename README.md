@@ -10,7 +10,7 @@ Repositorio para almacenar **código** y tareas durante del semestre EJ2023 de l
 CREACION DE OBJETO Y VALOR
 # Profepaaa
 + VAGM 16/03/23
-(https://github.com/VianiGuerra03/D_experimental/blob/main/Viani_Vivero.R)
+*hyperlink
 # VIVERO
 + VAGM 27/04/23 
 De un excel, pasamos los datos a R studio para saber las diferencias significativas del los tratamientos, junto con el porcentaje de diferencia que se observo, pruebas de one sample, al igual que la diferencia de varianza que hay entre los dos tratamientos, tambien junto a la prueba con un 0.85 y 0.90
